@@ -1,2 +1,8 @@
 # MySql-Project
-This project is a database-driven Online Book Store built using MySQL. The system efficiently manages book inventory, customer details, and order records through structured queries. Data was imported using CSV files and refined with SQL queries for insights and optimization.
+This repository showcases two MySQL-based database projects:
+
+Online Book Store – Manages books, orders, and customer data.
+
+Pizza Sales Analysis – Tracks pizza sales performance using advanced SQL queries.
+
+Both projects use MySQL Workbench for database management, with CSV file imports and structured queries ranging from basic to advanced.
